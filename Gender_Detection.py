@@ -63,7 +63,7 @@ while cv2.waitKey(1)<0:
         print(f'Gender: {gender}')
 
         cv2.putText(resultImg, f'{gender}', (faceBox[0], faceBox[1]-10), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (251,78,40), 2, cv2.LINE_AA)
-        cv2.imshow("Detecting Gender......", resultImg
+        cv2.imshow("Detecting Gender......", resultImg)
  
 video.release()
 cv2.destroyAllWindows()
