@@ -4,4 +4,10 @@ This project help to detection gender of person whether male or female. It has p
 
 For Running this project we can open through cmd by calling Gender_Detection.py or by direct clicking on testing.py will also open in cmd. Or through any text editor biscally it will works fine with idle of python. You can also try with other editor too but i am not sure about whether it will run on other editor or not. But Dont't worry it will work perfectfly on cmd. if any help is needed you can contact me on below address:
 
-np05cp4a190064@iic.edu.np
+mailto:hemrajdhkal.ml@gmail.com
+
+# Images
+![image](https://user-images.githubusercontent.com/65659902/124919656-32232b00-e016-11eb-856b-2bffe4d69c27.png)
+
+![image](https://user-images.githubusercontent.com/65659902/124919689-3d765680-e016-11eb-8f9d-27ac5711095d.png)
+
