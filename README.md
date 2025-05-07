@@ -6,8 +6,5 @@ For Running this project we can open through cmd by calling Gender_Detection.py 
 
 mailto:hemrajdhkal.ml@gmail.com
 
-# Images
-![image](https://user-images.githubusercontent.com/65659902/124919656-32232b00-e016-11eb-856b-2bffe4d69c27.png)
 
-![image](https://user-images.githubusercontent.com/65659902/124919689-3d765680-e016-11eb-8f9d-27ac5711095d.png)
 
